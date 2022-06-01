@@ -1,0 +1,19 @@
+body{
+    font-size: 0;
+}
+
+.black{
+    background-color: black;
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+    border-color: black;
+    margin: 0px;
+    
+}
+.white{
+    background-color: white;
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+}
